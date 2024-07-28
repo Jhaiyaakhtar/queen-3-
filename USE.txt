@@ -11,7 +11,7 @@
         
         pkg install python 
         
-        git clone https://github.com/python programmer/Queen.git
+        git clone https://github.com/Jhaiyaakhtar/queen-3-.git
         
         cd queen
         
