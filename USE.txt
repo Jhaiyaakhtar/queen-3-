@@ -1,0 +1,20 @@
+        
+        pkg update 
+        
+        pkg upgrade
+        
+        pkg install git
+        
+        pkg install turtle 
+        
+        pkg install pillow
+        
+        pkg install python 
+        
+        git clone https://github.com/python programmer/Queen.git
+        
+        cd queen
+        
+        cd 'Run Queen'
+        
+        python3 queen.py
